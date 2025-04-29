@@ -1,7 +1,7 @@
 # CPU Scheduler for OwlTech
 
 ## **Project Overview**
-This project is designed to demonstrate CPU scheduling techniques to make the OwlTech. 
+This project is designed to demonstrate CPU scheduling techniques to update the existing OwlTech infastructure. The options were to edit existing code or create all of the code from scratch. We did a complete coverhaul. 
 ## **Usage**
 - **SRTF**: Shortest Remaining Time First - Simulates a CPU scheduler that incorporates a scheduler that schedules based on the processes burst length.
 - **EDF**: Earliest Deadline First - Simulates a CPU scheduler that incorporates a scheduler that schedules based on the processes deadline value.
