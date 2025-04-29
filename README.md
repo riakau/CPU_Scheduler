@@ -1,4 +1,4 @@
-# CCU Scheduler for OWLTech
+# CPU Scheduler for OwlTech
 
 ## **Project Overview**
 This project is designed to demonstrate CPU scheduling techniques to make the OwlTech 
